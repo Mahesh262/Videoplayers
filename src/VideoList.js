@@ -18,11 +18,11 @@ function VideoList() {
     },
     {
       id: 4,
-      url: "https://youtube.com/shorts/OIzeP6drcEY?si=s2xphB1oz1T2_Hhx",
+      url: "OIzeP6drcEY?",
     },
     {
       id: 5,
-      url: "https://youtube.com/shorts/KnlH7IW9mAQ?si=5Vc0MgekYl0LNxkL",
+      url: "KnlH7IW9mAQ",
     },
     // Add more sample data if needed
   ];

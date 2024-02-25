@@ -2,7 +2,6 @@ import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import Videoplayer from "./Videoplayer";
 import VideoList from "./VideoList";
-import ReactPlayer from "react-player";
 
 function App() {
   return (
